@@ -1,5 +1,9 @@
 # op.gg-Riot-API
-참고 문서 
+참고 문서 :
+https://developer.riotgames.com/
+
+위의 주소에 들어가서 라이엇 api키를 신청해야합니다.
+참고로 api키는 유효기간이 있으므로 재발급을 해야합니다.
 
 # riot api 를 이용하여 라이엇에서 제공하는 로테이션 챔피언 , 유저를 검색했을때 해당 유저의 랭크 , 승패 , 티어 , 전적 정보를 가져옵니다.
 <img width="1233" alt="스크린샷 2021-07-21 오후 1 24 42" src="https://user-images.githubusercontent.com/69393030/126430638-9cd73469-f7b1-4174-be83-2611cae9007b.png">
