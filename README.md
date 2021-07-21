@@ -12,6 +12,10 @@
 * <img width="862" alt="스크린샷 2021-07-21 오후 1 27 45" src="https://user-images.githubusercontent.com/69393030/126430886-a32fc17e-d54d-4a4a-b8fc-596ca2e465f7.png">
 또는 db에 챔피언 고유 번호를 입력하고 챔피언 이름을 입력하는 방법도 있으나 , 저는 이런식으로 했습니다. 
 
+# 로테이션 챔피언 결과 !
+<img width="1015" alt="스크린샷 2021-07-21 오후 1 23 34" src="https://user-images.githubusercontent.com/69393030/126431229-6eac09d1-3dd2-4c30-bfb4-993d63d012e4.png">
+
+
 # 유저 검색하기 기능 
 <img width="612" alt="스크린샷 2021-07-21 오후 1 28 55" src="https://user-images.githubusercontent.com/69393030/126430992-4f643e5a-2b07-4d27-8c44-fa483230a8aa.png">
 유저이름을 통한 prarameter 를 통해 해당 유저의 정보를 json 으로 가져올수있습니다.
